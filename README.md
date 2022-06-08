@@ -84,7 +84,7 @@ body{
   <a class="fa fa-phone" href="tel: 075-850-2157"></a> Call
  </section><br>
 
-<footer>&copy; 2021, Salon Alps
+<footer>&copy; 2022, Salon Alps
 </footer>
   </html>
   
