@@ -1,5 +1,39 @@
 
-<header id ="header"><h1 style="font-size: 40px; color: red;">Salon Alps</h1><img id="header-img" src="https://images.app.goo.gl/Y6Wm4HXrMwJJit8F7">
+ <!DOCTYPE html>
+ <html>
+  <head>
+    <style>
+      h2{
+  font-size: 30px;
+  color: green;
+}
+
+#nav-bar{
+  font-size: 20px;
+}
+
+@media (max-width: 300px){
+  header{
+    flex-wrap: wrap;
+  }
+}
+body{
+  font-size: 20px;
+  line-height: 1.4;
+  background-color: cyan;
+  color: black;
+}
+.img-1{
+  width: 100%;
+}
+
+#services{
+  display: flex;
+}
+
+    </style>
+  </head>
+ <header id ="header"><h1 style="font-size: 40px; color: red;">Salon Alps</h1><img id="header-img" src="https://images.app.goo.gl/Y6Wm4HXrMwJJit8F7">
 <nav id = "nav-bar"><br>
   
      <a href="#About" class ="nav-link">About</a><br>
@@ -52,3 +86,5 @@
 
 <footer>&copy; 2021, Salon Alps
 </footer>
+  </html>
+  
