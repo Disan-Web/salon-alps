@@ -1,7 +1,4 @@
-
- <!DOCTYPE html>
- <html>
-  <head>
+ <head>
     <style>
       h2{
   font-size: 30px;
@@ -86,5 +83,4 @@ body{
 
 <footer>&copy; 2022, Salon Alps
 </footer>
-  </html>
   
